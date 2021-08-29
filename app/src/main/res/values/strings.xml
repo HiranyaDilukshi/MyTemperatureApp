@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTemperature</string>
+    <string name="CelciusRB">Celcius</string>
+    <string name="fahrenheit" />
+    <string name="farenheit">Farenheit</string>
+    <string name="Calbutton">Calculate</string>
+    <string name="temp">Enter temparature</string>
+</resources>
